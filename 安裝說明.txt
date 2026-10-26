@@ -1,0 +1,38 @@
+MapleStory 登入啟動器 — 安裝與使用說明
+================================================
+
+■ 安裝
+  將「MapleStory 登入啟動器.app」拖到右邊的「Applications」資料夾。
+
+■ 第一次打開（重要）
+  本程式未經 Apple 付費公證，第一次請用：
+    在 App 上按右鍵（或按住 Control 點一下）→ 打開 → 再按一次「打開」。
+  （只有第一次需要這樣，之後直接雙擊即可。）
+
+■ 首次設定（程式會自動提示）
+  1. 若跳出「允許控制瀏覽器／遊戲」的視窗，請按「好／允許」。
+  2. 依提示在你的瀏覽器開啟「允許 Apple 事件的 JavaScript」：
+     - Chrome / Edge / Brave / Vivaldi / Opera：
+         選單列 檢視(View) → 開發人員(Developer) → 允許 Apple 事件的 JavaScript
+     - Safari：
+         Safari → 設定 → 進階 → 勾「在選單列顯示開發選單」
+         再到 開發 → 允許來自 Apple 事件的 JavaScript
+
+■ 支援的瀏覽器
+  Chrome / Edge / Brave / Vivaldi / Opera / Safari → 全自動登入。
+  其他瀏覽器（如 Firefox）→ 會改成「自動複製密碼、請手動貼上」模式，仍可一鍵開遊戲。
+  建議把預設瀏覽器設成上述其中一種。
+
+■ 必要條件
+  需先安裝「MapleStory Worlds」遊戲（透過 NEXON Game Manager）。
+
+■ 使用方式
+  1. 按「新增帳號」，輸入 Email、備註名稱（可空）、密碼。
+     密碼只會存進「你自己這台 Mac 的鑰匙圈」，不會外傳。
+  2. 在清單選一個帳號 → 按「登入」，程式會自動開遊戲並完成網頁登入。
+  3. 點「備註」欄可直接改名稱。
+  4. 同一個帳號、遊戲已開著時再按登入 → 直接切回遊戲。
+
+■ 支援系統
+  macOS（Intel 與 Apple 晶片皆可，單一版本通用）。
+  目前不支援 Windows。

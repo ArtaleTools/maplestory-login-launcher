@@ -1,0 +1,10 @@
+# 產生出來的檔案，不需進版控
+bg.png
+build/
+*.dmg
+.DS_Store
+
+# 若未來誤放帳號清單/密碼，確保不會被提交
+accounts.txt
+last_account.txt
+setup_done
